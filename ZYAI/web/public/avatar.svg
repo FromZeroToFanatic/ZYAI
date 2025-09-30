@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" width="720" height="720">
+  <!-- 背景圆 -->
+  <circle cx="360" cy="360" r="360" fill="#f0f2f5"/>
+  <!-- 头像轮廓 -->
+  <circle cx="360" cy="320" r="200" fill="#e6f7ff"/>
+  <!-- 眼睛 -->
+  <circle cx="280" cy="280" r="40" fill="#1890ff"/>
+  <circle cx="440" cy="280" r="40" fill="#1890ff"/>
+  <!-- 嘴巴 -->
+  <path d="M 240 420 Q 360 480 480 420" fill="none" stroke="#1890ff" stroke-width="30" stroke-linecap="round"/>
+  <!-- 装饰性图标 -->
+  <text x="360" y="490" font-family="Arial" font-size="60" text-anchor="middle" fill="#1890ff">AI</text>
+</svg>

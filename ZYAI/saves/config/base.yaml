@@ -1,0 +1,17 @@
+# 私人智源AI项目配置
+
+# 功能选项
+enable_reranker: false
+enable_web_search: false
+
+# 默认智能体配置
+default_agent_id: ""
+
+# 模型配置
+# 保持与原项目一致的模型提供商和模型名称
+model_provider: siliconflow
+model_name: zai-org/GLM-4.5
+
+# 嵌入模型和重排序模型保持与原项目一致
+embed_model: siliconflow/BAAI/bge-m3
+reranker: siliconflow/BAAI/bge-reranker-v2-m3

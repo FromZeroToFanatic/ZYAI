@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# PyCharm
+.idea/
+.DS_Store
+
+# 数据集等大文件
+*.pkl
+*.h5
+*.model
+data/
+*.csv
+*.xlsx
+
+# 日志文件
+*.log

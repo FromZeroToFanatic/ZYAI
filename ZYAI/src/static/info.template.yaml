@@ -1,0 +1,26 @@
+# 项目信息配置文件
+# 用于配置网站的基本信息、品牌信息等
+
+# 组织信息
+organization:
+  name: "ZYAI"           # 完整组织名称
+  logo: "/favicon.svg"       # Logo文件路径（放在 web/public 目录下）
+  avatar: "/avatar.jpg"      # 头像文件路径（放在 web/public 目录下）
+  login_bg: "/login-bg.jpg"  # 登录背景图片路径（放在 web/public 目录下）
+
+# 项目信息
+branding:
+  name: "ZYAI"
+  title: "ZYAI: 个人知识管理系统"                           # 系统标题
+  subtitle: "基于大模型的个人知识库与知识图谱系统"          # 副标题
+  description: "结合知识库与知识图谱，提供更准确、更全面的回答"  # 描述信息
+
+# 功能特性
+features:
+  - "📚 灵活知识库"
+  - "🕸️ 知识图谱集成"
+  - "🔒 个人隐私保护"
+
+# 页脚信息
+footer:
+  copyright: "© 智源AI"

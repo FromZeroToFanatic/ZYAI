@@ -1,0 +1,21 @@
+# 系统信息配置文件
+# 此文件用于覆盖默认配置，优先级高于info.template.yaml
+
+# 组织信息
+organization:
+  name: "智源AI"
+  avatar: "/logo.png"
+  description: "自定义的知识图谱和智能体系统"
+  contact: ""
+  version: "0.2.0.dev"
+
+# 配置项
+config:
+  # 是否允许修改模型配置
+  allow_model_config: true
+  # 是否允许修改系统配置
+  allow_system_config: true
+  # 默认启用的工具
+  default_tools: ["Calculator", "QueryKnowledgeGraph"]
+  # 默认禁用的工具
+  disabled_tools: ["WebSearchWithTavily"]

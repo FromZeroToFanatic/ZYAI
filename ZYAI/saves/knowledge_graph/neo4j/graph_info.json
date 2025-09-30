@@ -1,0 +1,14 @@
+{
+  "graph_name": "neo4j",
+  "entity_count": 15,
+  "relationship_count": 14,
+  "triples_count": 14,
+  "labels": [
+    "Entity",
+    "Upload"
+  ],
+  "status": "open",
+  "embed_model_name": "siliconflow/BAAI/bge-m3",
+  "unindexed_node_count": [],
+  "last_updated": "2025-09-30T14:13:27.180763"
+}
